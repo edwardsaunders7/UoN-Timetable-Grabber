@@ -2,4 +2,4 @@ In order to get this to work properly you must do 3 things
 
 1) Open the config.txt file
 2) Enter in your Nottingham Username on the first line, Password on the second line, and file save location on the 3rd line
-3) Save this file, and run Timetables.py
+3) install the python requirements using "pip install -r requirements.txt"
